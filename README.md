@@ -3,11 +3,11 @@
 **BI- en data-analist** met een achtergrond in **metrologie**. Ik bouw Power BI-dashboards, automatiseer rapportering
 en vertaal commerciële, financiële en meetdata naar concrete beslissingen.
 
-- 📍 Regio Antwerpen · onmiddellijk beschikbaar
-- 🎓 Master *Metrologie en informatie-meettechniek*, Nationale Technische Universiteit "Charkiv Polytechnisch Instituut"
-- 💼 Ervaring in sales analytics, financiële rapportering, marketingdata en e-commerce (Amazon, Bol.com)
-- 📈 Als zaakvoerder van een specialty coffee-bedrijf: +19 % online omzet en +13 % klantenretentie dankzij data-analyse en klantsegmentatie
-- 🗣️ Nederlands (B1), Engels, Oekraïens, Russisch
+- Regio Antwerpen · onmiddellijk beschikbaar
+- Master *Metrologie en informatie-meettechniek*, Nationale Technische Universiteit "Charkiv Polytechnisch Instituut"
+- Ervaring in sales analytics, financiële rapportering, marketingdata en e-commerce (Amazon, Bol.com)
+- Als zaakvoerder van een specialty coffee-bedrijf: +19 % online omzet en +13 % klantenretentie dankzij data-analyse en klantsegmentatie
+- Nederlands (B1), Engels, Oekraïens, Russisch
 
 ### Tools
 
