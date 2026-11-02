@@ -24,7 +24,7 @@ en vertaal commerciële, financiële en meetdata naar concrete beslissingen.
 #### Live: [Luchtkwaliteit Antwerpen met datakwaliteitscontrole](https://github.com/BadaninaAnna/luchtkwaliteit-antwerpen) · [▶ dashboard](https://badaninaanna.github.io/luchtkwaliteit-antwerpen/)
 *Python · GitHub Actions · REST-API · Plotly · metrologie*
 
-Een geautomatiseerde datapijplijn haalt elk uur de metingen van 37 officiële meetstations rond Antwerpen op,
+Een geautomatiseerde datapijplijn haalt meerdere keren per dag de metingen van 37 officiële meetstations rond Antwerpen op,
 controleert ze op storingen, vastgelopen sensoren, lokale pieken en drift, en toetst ze aan de WHO-richtlijnen en
 de EU-grenswaarden van 2030. Het dashboard ververst zichzelf, zonder server.
 
