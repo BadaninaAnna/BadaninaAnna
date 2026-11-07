@@ -18,8 +18,16 @@ en vertaal commerciële, financiële en meetdata naar concrete beslissingen.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat&logo=duckdb&logoColor=black)
 
 ### Projecten
+
+#### Live: [Treinstiptheid België per station, lijn en uur](https://github.com/BadaninaAnna/treinstiptheid-belgie) · [▶ dashboard](https://badaninaanna.github.io/treinstiptheid-belgie/)
+*SQL (DuckDB) · Python · GitHub Actions · open data van Infrabel*
+
+Een datapijplijn verwerkt dagelijks de ruwe stiptheidsgegevens van Infrabel (elke trein, aan elke stopplaats) met
+SQL in DuckDB. Mijn berekening per station wijkt mediaan minder dan een halve procentpunt af van de officiële cijfers.
+Resultaat: Antwerpen-Centraal scoort structureel 3 à 4 procentpunt onder het net, met een dieptepunt om 18 u.
 
 #### Live: [Luchtkwaliteit Antwerpen met datakwaliteitscontrole](https://github.com/BadaninaAnna/luchtkwaliteit-antwerpen) · [▶ dashboard](https://badaninaanna.github.io/luchtkwaliteit-antwerpen/)
 *Python · GitHub Actions · REST-API · Plotly · metrologie*
